@@ -1,4 +1,4 @@
-function App() {
+function PersonTable() {
   return (
     <>
       <table>
@@ -23,4 +23,4 @@ function App() {
   );
 }
 
-export default App;
+export default PersonTable;

@@ -9,8 +9,8 @@ export default function Hello(props: HelloProps) {
       <p>
         <b>Hello</b>
       </p>
-      {/* <p> {props.name} </p> */}
-      {/* <p> {props.age} </p> */}
+      <p> {props.name} </p>
+      <p> {props.age} </p>
     </>
   );
 }
